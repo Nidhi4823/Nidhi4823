@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Maniya</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">Laravel & PHP Expert | Skilled in SEO Optimization | Crafting efficient web solutions with clean code and impactful strategies.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
