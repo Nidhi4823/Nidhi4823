@@ -6,7 +6,6 @@
 <p align="left">
 
   <a href="https://x.com/ndmaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ndmaniya" height="30" width="40" /></a>
-
 <a href="https://codepen.io/nidhi-maniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nidhi-maniya" height="30" width="40" /></a>
 </p>
 
